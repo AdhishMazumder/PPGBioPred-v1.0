@@ -3,13 +3,13 @@ The PPGBioPred webserver in the prediction of bioactivities for various lead che
 
 ![](https://github.com/AdhishMazumder/PPGBioPred-v1.0/blob/main/Utils/Pictures/ServerLogo.png)
 
-### 1. Download PPGBioPred v1.0
+##### 1. Download PPGBioPred v1.0
 Click on the 'Code' and download the entire folder as .zip file on your local computer.
 
-### 2. Download the Requirements
+##### 2. Download the Requirements
 The requirements.txt contains the list of all libraries that you need to download. Please make sure to download it before using the webserver.
 
-### 3. Run PPGBioPred v1.0
+##### 3. Run PPGBioPred v1.0
 Step 1. Once the environment has been setup, please write the following command in the same directory: ***streamlit run .\PPGBioPred.py***
 Step 2. Naviagte to the 'Predict' page and enter the SMILES data for your compound of interest. Verify it with the GUI and then enter the name or identification code for the compound. 
 Step 3. Choose the bioactivity you wish to predict.
