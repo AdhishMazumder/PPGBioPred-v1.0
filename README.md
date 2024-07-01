@@ -11,8 +11,12 @@ The requirements.txt contains the list of all libraries that you need to downloa
 
 ##### 3. Run PPGBioPred v1.0
 Step 1. Once the environment has been setup, please write the following command in the same directory: ***streamlit run .\PPGBioPred.py***
+
 Step 2. Naviagte to the 'Predict' page and enter the SMILES data for your compound of interest. Verify it with the GUI and then enter the name or identification code for the compound. 
+
 Step 3. Choose the bioactivity you wish to predict.
+
 Step 4. Click on 'Submit for Prediction'.
+
 Step 5. You can extract the result of the prediction by downloading it directly on your local device.
 
