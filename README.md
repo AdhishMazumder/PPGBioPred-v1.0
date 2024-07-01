@@ -18,5 +18,6 @@ The requirements.txt contains the list of all libraries that you need to downloa
 
 **Step 4.** Click on 'Submit for Prediction'.
 
-Step 5. You can extract the result of the prediction by downloading it directly on your local device.
+**Step 5.** You can extract the result of the prediction by downloading it directly on your local device.
 
+![Predicting the bioactivity of Compounds](https://github.com/AdhishMazumder/PPGBioPred-v1.0/blob/main/Utils/Pictures/Figure%209.tif)
